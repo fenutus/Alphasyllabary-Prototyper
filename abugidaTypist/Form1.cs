@@ -627,11 +627,18 @@ namespace abugidaTypist
         #region This Syllabary
         private void editGridHeadersToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            ThisSyllabary syllabary = new ThisSyllabary(headersCol, headersRow, indexFile);
-            if (syllabary.ShowDialog() == DialogResult.Yes)
+            if (File.Exists(indexFile))
             {
-                InitialiseLanguage(indexFile);
-                //TODO: delete files of removed letters
+                ThisSyllabary syllabary = new ThisSyllabary(headersCol, headersRow, indexFile);
+                if (syllabary.ShowDialog() == DialogResult.Yes)
+                {
+                    InitialiseLanguage(indexFile);
+                    //TODO: delete files of removed letters
+                }
+            }
+            else
+            {
+                MessageBox.Show("Syllabary index file not found. Before using this menu, you must open or create an alphasyllabary.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
         #endregion This Syllabary
