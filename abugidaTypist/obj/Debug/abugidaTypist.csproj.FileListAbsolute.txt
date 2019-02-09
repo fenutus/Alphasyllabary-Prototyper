@@ -22,3 +22,15 @@ C:\Users\Thirteen\Dropbox\Creative\Programming\abugidaTypist\Project\abugidaTypi
 C:\Users\Thirteen\Dropbox\Creative\Programming\abugidaTypist\Project\abugidaTypist\obj\Debug\abugidaTypist.csproj.CoreCompileInputs.cache
 C:\Users\Thirteen\Dropbox\Creative\Programming\abugidaTypist\Project\abugidaTypist\obj\Debug\alphasyllabaryprototyper.exe
 C:\Users\Thirteen\Dropbox\Creative\Programming\abugidaTypist\Project\abugidaTypist\obj\Debug\alphasyllabaryprototyper.pdb
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\bin\Debug\alphasyllabaryprototyper.exe.config
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\bin\Debug\alphasyllabaryprototyper.exe
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\bin\Debug\alphasyllabaryprototyper.pdb
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\obj\Debug\abugidaTypist.csprojAssemblyReference.cache
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\obj\Debug\abugidaTypist.Form1.resources
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\obj\Debug\abugidaTypist.GlyphEdit.resources
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\obj\Debug\abugidaTypist.Properties.Resources.resources
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\obj\Debug\abugidaTypist.ThisSyllabary.resources
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\obj\Debug\abugidaTypist.csproj.GenerateResource.cache
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\obj\Debug\abugidaTypist.csproj.CoreCompileInputs.cache
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\obj\Debug\alphasyllabaryprototyper.exe
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\obj\Debug\alphasyllabaryprototyper.pdb

@@ -16,3 +16,13 @@ C:\Users\Thirteen\Dropbox\Creative\Programming\abugidaTypist\Project\abugidaTypi
 C:\Users\Thirteen\Dropbox\Creative\Programming\abugidaTypist\Project\abugidaTypist\obj\Release\abugidaTypist.csproj.GenerateResource.cache
 C:\Users\Thirteen\Dropbox\Creative\Programming\abugidaTypist\Project\abugidaTypist\obj\Release\abugidaTypist.csproj.CoreCompileInputs.cache
 C:\Users\Thirteen\Dropbox\Creative\Programming\abugidaTypist\Project\abugidaTypist\obj\Release\alphasyllabaryprototyper.exe
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\bin\Release\alphasyllabaryprototyper.exe.config
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\bin\Release\alphasyllabaryprototyper.exe
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\obj\Release\abugidaTypist.csprojAssemblyReference.cache
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\obj\Release\abugidaTypist.Form1.resources
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\obj\Release\abugidaTypist.GlyphEdit.resources
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\obj\Release\abugidaTypist.Properties.Resources.resources
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\obj\Release\abugidaTypist.ThisSyllabary.resources
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\obj\Release\abugidaTypist.csproj.GenerateResource.cache
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\obj\Release\abugidaTypist.csproj.CoreCompileInputs.cache
+C:\Users\Thirteen\Documents\GitHub\Alphasyllabary-Prototyper\Alphasyllabary-Prototyper\abugidaTypist\obj\Release\alphasyllabaryprototyper.exe

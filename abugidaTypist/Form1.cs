@@ -252,9 +252,10 @@ namespace abugidaTypist
 
                     FlowLayoutPanel flowPanel = new FlowLayoutPanel();
                     //for not foreach because of importance of glyph position
-                    object tag = FormType.Isolated; ;
+                    
                     for (int i = 0; i < l.Count; i++)
                     {
+                        object tag = FormType.Isolated;
                         string fil = String.Format("{0}\\{1}.png", repository, l[i]);
 
                         if (languageSettings[Property.CharacterForms].Equals(CharacterForms.Multiple))
