@@ -327,7 +327,7 @@ namespace abugidaTypist
                             }
                             im.MakeTransparent(Color.White);
                             Panel p = new Panel() { BackgroundImage = im, BackgroundImageLayout = ImageLayout.Zoom, Size = characterSize, Tag = tag };
-                            /// pfuture feature - on hover, highlight original in text box ///
+                            /// future feature - on hover, highlight original in text box ///
                             
                             if (k != Kerning.Monospace)
                             {
@@ -597,6 +597,7 @@ namespace abugidaTypist
                 Properties.Settings.Default.lastFile = aptSaveFile;
                 Properties.Settings.Default.Save();
                 InitialiseLanguage(aptSaveFile);
+                textBoxInput_TextChanged(null, null);
             }
         }
         //open
