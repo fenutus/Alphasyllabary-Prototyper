@@ -592,7 +592,7 @@ namespace abugidaTypist
                     writer.WriteLine("APT");
                     writer.WriteLine("¬¬");
                     writer.WriteLine("‰ltr‰ltr");
-                    writer.WriteLine("⁞mst04");
+                    writer.WriteLine("⁞tsm04");
                 }
                 Properties.Settings.Default.lastFile = aptSaveFile;
                 Properties.Settings.Default.Save();
